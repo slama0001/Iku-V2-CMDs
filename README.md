@@ -1,7 +1,7 @@
 # Iku-V2-CMDs
 
--test
--money show/hide
+- test
+- money show/hide
 drop *amount
 stop
 setup <admin/bank/club/around/line/spot>
