@@ -15,7 +15,7 @@
 - mask on/off
 - advert on/off
 
-- * = optional arguments
+* = optional arguments
 - Examples:
 - drop⠀⠀⠀: drops infinite
 - drop 1m⠀: drops 1mil
